@@ -5,7 +5,8 @@ Thank you for your interest in contributing to **uv-secure**! This document outl
 guidelines for contributing to ensure a smooth collaboration experience. I'd love to get
 more contributors, even for small changes like documentation fixes, examples, or
 additional tests, partly just because I know a lot of people won't adopt uv-secure if
-they don't see multiple contributors.
+they don't see multiple contributorsø
+
 
 ## Code Style and Linting
 
